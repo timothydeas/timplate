@@ -1,1 +1,15 @@
-/* add cascading screen stylesheet (css) below */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+/* .josefin-sans-<uniquifier> {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+} */
+
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    /* font-optical-sizing: auto; */
+    font-size: 36px;
+    font-weight: bold;
+}
+
