@@ -1,3 +1,3 @@
-# Profile Page
+# timplate (aka template repo)
 
-basic html, and css profile page example
+basic html, css and javascript template
